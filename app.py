@@ -143,7 +143,7 @@ root = tk.Tk()
 # disabling the resizing property
 root.geometry("700x280")
 root.resizable(False, False)
-root.title("Hashirbot")
+root.title("Hashirtube")
 root.config(background="PaleGreen1")
 
 # Creating the tkinter Variables
